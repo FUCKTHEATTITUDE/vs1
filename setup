@@ -113,8 +113,7 @@ pprint "\nAPI HASH: "; color_reset; api_hash = "3aa2fabe1074632cf6e2b01da083a2c6
 pprint "\nBOT TOKEN: "; color_reset; bot_token = "5493466034:AAG8Y7Z2WznIbsStmQVFQ1IJnDqF4SPDZUI"
 pprint "\nMONGO DB URI: "; color_reset; mongo_db ="mongodb+srv://alpha:20092001@cluster0.18gr5.mongodb.net/?retryWrites=true&w=majority"
 pprint "\nLOG GROUP ID: "; color_reset; logger = "-1001635517276"
-pprint "\nPYROGRAM STRING SESSION OF ASSISTANT ACCOUNT: "; color_reset;  string_session ="BQC98gasJOWI-S_pLOg_YhTQ_mq_t2bf8zIHqQ1gMPV1L8-LOL68hRj0po91wdmHZC16I09aJmFxiwnf41Bj5YoyTq7WjVUkR2botMS4e2IMIIW1Becis8jKNxPvZwBXL7pIWWvv2U1FEe2UID8iYgAGUvB-LZloMr17e88HTesayHBLJLiPR6wV3luV0WO70rAMviLRI7vsyW2wbqhWvoZEoA2o1lXAYKspOr62vmDPflhzRD-PhHIvYzBWJnUm-bJuEOxHcePbD8_qlXWF6_lksSB95EumX17f8j1KPfodWayLNNd6fUBST1VgoIt-Tf0GXoR2JgDAgh5HtSnNmIE7AAAAATL5cKkA"
-pprint "\nMUSIC BOT NAME: "; color_reset;  mbt ="ALPHA"
+pprint "\nPYROGRAM STRING SESSION OF ASSISTANT ACCOUNT: "; color_reset;  string_session ="BQBVVhljK2m-hu2qXg0hmC8pwVuLMpmqXdSWOvOji832qFs_vTH27F3QuB1gYUHxfUWK7pHV8rF2KIG109-rtCY3SipPGzr2zUKMbjn2NIz3MWDSBCQiuTj5j_LipEKWyYbPEFmimb7kgUJPkP9Z7c9sf9Tr1vMGhm9VKtB_3DU_7xODExOmCFeVXLQkj9mk8fKNFaV5oJi7ILHcALFK-LlW0UM8vEHJXmqFnW8XRtISoUcYNHPZ2vQBtt0_Wvusyzwdu36Ine4jBzNf9ddYq8JbsXoCEWEcGZ5K4boSd0qel7EDmPSnB9vWIC5VUUEXectwJHlobiMrmBRaB80W3w8gVg81cQA"
 pprint "\nOwner Id:"; color_reset; read ownid ="1930954213"
 
 pprint "\n\nProcessing your vars, Wait a while!" "cgreen"
