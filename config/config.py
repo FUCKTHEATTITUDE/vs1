@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001635517276"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","luna")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","ALPHA X ONE")
 
 # Your User ID.
 OWNER_ID = list(
@@ -124,18 +124,18 @@ CLEANMODE_DELETE_MINS = int(
 # Telegram audio  and video file size limit
 
 TG_AUDIO_FILESIZE_LIMIT = int(
-    getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600")
+    getenv("TG_AUDIO_FILESIZE_LIMIT", "10485760073737737383")
 )  # Remember to give value in bytes
 
 TG_VIDEO_FILESIZE_LIMIT = int(
-    getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824")
+    getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824737388383838")
 )  # Remember to give value in bytes
 
 # Chceckout https://www.gbmb.org/mb-to-bytes  for converting mb to bytes
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "BQBqyx6LMFkhsA7z8hPCFEkCl73a-YX99qzdbQVfaFBlpxy_EKIRtKgRAikoFNpoRq06Lrlt8MUUDx1_7RsQaUMKo-mEJO-QrKoSaUYqI-U-9sNVI7yDqO0wuG4bQUyR4ZiWM9piIuxCPJ8pJzr1z7R6KP9ytNsilz7S7I5H00DjKQRZDmA0GrjvTqmrGsswOG-adxPJFuiIJSS-PK8wjGpbQhU3tvKRa1-GlNv8b6ft59kzAYein5l_Nv-6s2NgIhhD-SUS0f7XTnEzYH-KfUSaolVwlKVOB3S3IjGDbcvePJaqOgjydxJ3dCuJTUL_rbvHztrM8wBWv05oUMZGYAmZfk4hRgA")
+STRING1 = getenv("STRING_SESSION", "BQC98gasJOWI-S_pLOg_YhTQ_mq_t2bf8zIHqQ1gMPV1L8-LOL68hRj0po91wdmHZC16I09aJmFxiwnf41Bj5YoyTq7WjVUkR2botMS4e2IMIIW1Becis8jKNxPvZwBXL7pIWWvv2U1FEe2UID8iYgAGUvB-LZloMr17e88HTesayHBLJLiPR6wV3luV0WO70rAMviLRI7vsyW2wbqhWvoZEoA2o1lXAYKspOr62vmDPflhzRD-PhHIvYzBWJnUm-bJuEOxHcePbD8_qlXWF6_lksSB95EumX17f8j1KPfodWayLNNd6fUBST1VgoIt-Tf0GXoR2JgDAgh5HtSnNmIE7AAAAATL5cKkA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
